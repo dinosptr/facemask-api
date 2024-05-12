@@ -1,0 +1,2 @@
+fastapi==0.111.0
+ultralytics==8.2.13
